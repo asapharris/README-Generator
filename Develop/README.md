@@ -1,6 +1,6 @@
 
 # README Generator  ![Project License Badge](https://img.shields.io/badge/license-Unlicensed-brightgreen)
-# asapharris's project
+# Asapharris's project
 
 ## Description
 This application let's you generate a README.md file after answering the questions from the prompt.
